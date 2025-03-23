@@ -15,6 +15,6 @@
 - Itch.io: [your_link](https://mango-hub.itch.io)
 
 ### 🔥 GitHub Stats  
-![Mangus's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)  
+![Mangus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manguseqq&show_icons=true&theme=tokyonight)  
 
 💀 If you see me rewriting the same project for the 10th time… no, you didn’t.
