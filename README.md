@@ -11,10 +11,11 @@
 - Spend way too much time tweaking configs.  ( and writing this readme.md )
 
 ### 📫 Stalk Me Here:  
-- GitHub: [your_link](https://github.com/your_username)  
-- Itch.io: [your_link](https://mango-hub.itch.io)
+- GitHub: [Link](https://github.com/your_username)  
+- Itch.io: [Link](https://mango-hub.itch.io)
 
 ### 🔥 GitHub Stats  
 ![Mangus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manguseqq&show_icons=true&theme=tokyonight)  
+^^ See? im not addicted
 
 💀 If you see me rewriting the same project for the 10th time… no, you didn’t.
