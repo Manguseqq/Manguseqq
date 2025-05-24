@@ -1,6 +1,10 @@
-## 👋 Hi, I'm Mangus!
-### I dont know what to type here lol  
-## I use arch and rust :3  
-### I usually help my friends if they need something  
-## I dont post everything here sooo yeah  
-## My instagram: [@manguseqq](https://instagram.com/manguseqq)
+## Hi, I'm Mangus 👋
+
+I’m passionate about coding and building cool tools.  
+I enjoy helping friends with their projects and learning new tech along the way.
+
+### Find me here:  
+- Instagram: [@manguseqq](https://instagram.com/manguseqq)
+- Itch.io : [Mangus](https://mango-hub.itch.io/)
+- GitHub: [Manguseqq](https://github.com/Manguseqq)
+
