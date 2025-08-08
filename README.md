@@ -1,4 +1,4 @@
-**## Hi, I'm Mangus (Peter)
+### Hi, I'm Mangus (Peter)
 
 Computer Science Student @ Elektryk, Nowy Sącz
 
